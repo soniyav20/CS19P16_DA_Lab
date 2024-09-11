@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "department": "Engineering",
+        "age": 29,
+        "salary": 70000
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "department": "Marketing",
+        "age": 35,
+        "salary": 55000
+    },
+    {
+        "id": 3,
+        "name": "Charlie Davis",
+        "department": "Engineering",
+        "age": 25,
+        "salary": 60000
+    },
+    {
+        "id": 4,
+        "name": "Dana Lee",
+        "department": "Human Resources",
+        "age": 40,
+        "salary": 65000
+    },
+    {
+        "id": 5,
+        "name": "Eve Martinez",
+        "department": "Finance",
+        "age": 45,
+        "salary": 75000
+    }
+]
